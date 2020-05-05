@@ -1,14 +1,4 @@
-// Patch Editor - NativeUI Picker example v85
-// by Luke Hurd :: @lukehurd
-
-// WHAT HAS CHANGED FROM PREVIOUS VERSIONS//
-
-// In order to load Textures, Materials, and Objects, we must 
-// now use something in Javascript called "Promises". The basic
-// concept is Spark AR now wants to make sure these assets are 
-// available to the script to manipulate before executing any code.
-
-// When loading assets, find() has been changed to findFirst() and findAll()
+// Spark AR Studio v87
 
 // Load the modules
 const Scene = require('Scene');
